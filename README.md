@@ -3,8 +3,6 @@
 <h3 align="center">A passionate frontend developer from Lahore, Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0-talha" alt="0-talha" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mtalha215" target="blank"><img src="https://img.shields.io/twitter/follow/mtalha215?logo=twitter&style=for-the-badge" alt="mtalha215" /></a> </p>
 
 - 🔭 I’m currently working on [News App](https://github.com/0-talha/News-Monkey)
